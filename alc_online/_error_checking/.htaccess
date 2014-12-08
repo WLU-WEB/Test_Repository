@@ -1,0 +1,8 @@
+#ErrorDocument 403 http://www.wlu.ca/error_page.php
+
+<Limit GET>
+order deny,allow
+deny from all
+allow from 205.189.26.78
+</Limit>
+

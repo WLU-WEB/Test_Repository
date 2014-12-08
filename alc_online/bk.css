@@ -1,0 +1,341 @@
+td{
+	font-size:100%;
+}
+
+body{
+	font-size:12px;
+}
+
+
+
+.menuTitle {
+	color: #333;
+	font-weight: bolder;
+	font-style: normal;
+	text-transform: uppercase;
+	font-size: 13px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	}
+
+.border_a {
+	border: 1px dashed #999999;
+	background-color: #FFFFFF;
+	background-image: url(_img/user.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+	}
+
+.border_aa {
+	border: 1px dashed #999999;
+	background-color: #FFFFFF;
+	background-image: url(_img/transcript.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+	}
+	
+.border_aaa {
+	border: 1px dashed #999999;
+	background-color: #FFFFFF;
+	background-image: url(_img/key.jpg);
+	background-repeat: no-repeat;
+	background-position: right center;
+	}
+
+.border_b {
+	border: 1px dashed #999999;
+	background-color: #FFFFFF;
+	vertical-align:text-top;
+	}
+
+.border_d {
+	background-color: #FFFFFF;
+	border-left-width: medium;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: outset;
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	}
+
+.border_c {
+	border: 1px solid #CCC;
+	background-color: #FFFFFF;
+	}
+
+.border_heading {
+	color: #CE0005;
+	font-weight: bolder;
+	font-style: normal;
+	font-size: medium;
+	}
+	
+.border_01 {
+	border: 1px dashed #999999;
+	background-color: #FFFFFF;
+	background-image: url(_img/person_01.jpg);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	}
+
+.border_02 {
+	border: 1px dashed #999999;
+	background-color: #FFFFFF;
+	background-image: url(_img/user.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+	}
+
+.border_03 {
+	border: 1px dashed #999999;
+	background-color: #FFFFFF;
+	background-image: url(_img/emergency_01.jpg);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	}
+
+.border_04 {
+	border: 1px solid #ccc;
+	color: #666;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 10px;
+	}
+
+.borderSolid {
+	border: 1px solid #CCC;
+	background-color: #FFFFFF;
+}
+
+
+.borderSolid_completed {
+	border: 1px solid #999;
+	background-color: #FFFFFF;
+	background-image: url(_img/application_completed.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+
+
+
+.image {
+	background-attachment: scroll;
+	background-image: url(_images/bk.jpg);
+	background-repeat: repeat-y;
+	background-position: left top;
+	}
+
+	
+.border_profile {
+	border: 1px dashed #999999;
+	background-attachment: scroll;
+	background-image: url(_images/profile_bk.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+.border_workshop {
+	border: 1px dashed #999999;
+	background-color: #FFFFFF;
+	}
+
+.border_menu {
+	background-color: #fafaf4;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 2px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #cccccc;
+	}
+	
+.border_registrant {
+	background-color: #fafaf4;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: dotted;
+	border-left-style: none;
+	border-top-color: #999999;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #cccccc;
+	}
+	
+.dateText {
+	color: #CC0000;
+	font-weight: bold;
+	}
+	
+<!--------------------------------------------------- //>	
+	
+.formText
+	{
+	background-color:#f0f0f0;
+	border:1px solid #dbdbdb;
+	padding:5px;
+	-webkit-border-radius:7px;
+	-moz-border-radius:7px;
+	color: #000;
+	font-style:italic;
+	font-weight:bold;
+	}
+	
+	
+h2 {
+	font-size: 1.4em;
+	font-weight: bold;
+	margin: 0;
+	color: #cc0000;
+	padding-bottom: 5px;
+}	
+
+.head1 {
+	font-size: 1.1em;
+	font-weight: bold;
+	color: #5b9e30;
+	font-style: normal;
+}
+
+.head2 {
+	font-size: 0.8em;
+	font-weight: bold;
+	color: #5b9e30;
+	font-style: normal;
+}
+
+.fieldText {
+	font-size: 0.7em;
+	font-weight: bold;
+	color: #000000;
+	font-style: normal;
+	text-transform:uppercase;
+}
+
+
+<!--------------------------------------------------- //>	
+.menu_simple ul {
+    margin: 0; 
+    padding: 0;
+    width:100%;
+    list-style-type: none;
+}
+
+.menu_simple ul li a {
+    text-decoration: none;
+    color: white; 
+    padding: 10.5px 11px;
+    background-color: #CCCCCC;
+    display:block;
+}
+ 
+.menu_simple ul li a:visited {
+    color: white;
+}
+ 
+.menu_simple ul li a:hover, .menu_simple ul li .current {
+    color: white;
+    background-color: #000000;
+}
+
+<!--------------------------------------------------- //>	
+<!------------------- MENU -------------------------- //>	
+<!--------------------------------------------------- //>	
+#menu_heading 
+	{
+	width: 100%;
+	float:right;
+	}
+
+#menu_heading ul
+	{
+	font-family: Arial, Helvetica, sans-serif;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	}
+	
+#menu_heading li
+	{
+	display: inline; /* for IE5 and IE6 */
+	color: #fff;
+	text-decoration: none;
+	font-size: 14px;
+	display: block;
+	width: 100%;
+	background-color: #333333;
+	font-weight: bold;
+	text-transform: uppercase;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: #4f8015;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	}	
+<!--------------------------------------------------- //>	
+
+#menu1 
+	{
+	width: 100%;
+	float:right;
+	}
+
+#menu1 ul
+	{
+	font-family: Arial, Helvetica, sans-serif;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	}
+	
+#menu1 li
+	{
+	display: inline; /* for IE5 and IE6 */
+	}	
+	
+#menu1 a
+	{
+	color: #000;
+	text-decoration: none;
+	font-size: 14px;
+	display: block;
+	width: 100%;
+	background-color: #DADBE0;
+	text-align: left;
+	height: 30px;
+	line-height: 30px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFF;
+	}	
+	
+#menu1 a:hover
+	{
+	background-color: #4f8015;
+	color: #FFFFFF;
+	}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
